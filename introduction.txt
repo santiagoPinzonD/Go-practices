@@ -1,0 +1,17 @@
+Compilado y staticamente tipado
+Gophers
+ 
+ Why?
+ Gran velocidad de compilacion
+ Multiples tareas
+
+bin save all executable tha are used in go 
+pkg save code modules and dependeces 
+src 2 functions: all code in go, set of code that you had saved
+
+Compilate
+
+go build main.go
+or
+go run main.go this command compilate the file and put the exe in a file tmp and show the output
+
