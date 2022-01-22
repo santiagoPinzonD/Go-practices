@@ -15,3 +15,38 @@ go build main.go
 or
 go run main.go this command compilate the file and put the exe in a file tmp and show the output
 
+variables 
+
+base := 12
+if assign := say that not are used this var 
+
+
+Zero values 
+is a value that for deafult assign go when a var not have a value
+
+
+Numbers integers
+int: depend of your system
+
+Numbers integers positives
+uint: depend of your system
+
+Numbers decimals
+float32 and float64 
+
+texts and bools
+
+strings = ""
+bool = true or false
+
+Numbers complex
+
+complex64 real e imaginario float32
+complex128 = real e imaginario float64
+ejemplo c:= 10 + 8i
+
+func
+
+if a functiont return most of one value and only want get a value, put '_'
+
+value1, _ := doubleReturn(2)
